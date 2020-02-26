@@ -42,7 +42,7 @@ blockquote:before, blockquote:after, q:before, q:after {
 table {
   border-spacing: 50;
 }
-table li {
+table tr td li {
   list-style-type: circle;
 }
 
