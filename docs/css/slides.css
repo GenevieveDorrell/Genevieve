@@ -39,13 +39,6 @@ blockquote:before, blockquote:after, q:before, q:after {
   content: none;
 }
 
-table {
-  border-spacing: 100;
-}
-table tr td li {
-  list-style-type: circle;
-}
-
 b, strong {
   font-weight: 600;
 }
@@ -12849,5 +12842,7 @@ span.next-arrow svg {
   clear: both;
   display: table;
 }
+
+
 
 /*# sourceMappingURL=slides.css.map */
