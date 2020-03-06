@@ -21,6 +21,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, hr, bl
   vertical-align: baseline;
   margin: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -12841,6 +12842,14 @@ span.next-arrow svg {
   content: "";
   clear: both;
   display: table;
+}
+
+table.skills {
+  width: 100%; 
+  align-self: center;
+}
+table.skills td{
+  border: #000 solid 1px;
 }
 
 
